@@ -2,8 +2,6 @@
 
 A simple Password Manager built using Python and Tkinter to generate and save website login credentials.
 
-Built as part of the **100 Days of Code: The Complete Python Pro Bootcamp**.
-
 ## ✨ Features
 
 - Generate strong random passwords.
