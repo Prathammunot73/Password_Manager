@@ -51,10 +51,11 @@ python main.py
 
 - Building GUI applications with Tkinter
 - Password generation using Python
+- File handling
+- Using message boxes for user interaction
+- Copying text to the clipboard with Pyperclip
 
 ## Attribution
 
 This project was developed as part of my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
-- File handling
-- Using message boxes for user interaction
-- Copying text to the clipboard with Pyperclip
+
